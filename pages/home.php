@@ -6,7 +6,7 @@
                 <div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Automação Residencial</h4>
+                            <h4 class="heading-4">Automação <br> Residencial</h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/automacaoresidencial.png">
@@ -21,7 +21,8 @@
                 <div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Servidores em Nuvem</h4>
+                            <h4 class="heading-4">Servidores em Nuvem<br>
+							</h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/server.png">
@@ -31,7 +32,8 @@
                 <div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Infraestrutura e CFTV</h4>
+                            <h4 class="heading-4">Infraestrutura e CFTV
+							</br></h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/cctv.png">
@@ -41,7 +43,8 @@
                 <div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Suporte em TI</h4>
+                            <h4 class="heading-4">Suporte em T.I
+							</br></h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/computer.png">
@@ -51,7 +54,7 @@
 				<div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Automação Comercial</h4>
+                            <h4 class="heading-4">Automação <br> Comercial</h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/automation.png">
@@ -61,7 +64,7 @@
 				<div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Automação de Cancelas</h4>
+                            <h4 class="heading-4">Automação de<br> Cancelas</h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/Cancelas.png">
@@ -71,7 +74,7 @@
 				<div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Instalação de Alarmes e Cercas Elétrica </h4>
+                            <h4 class="heading-4">Instalação de Alarmes <br> e Cercas Elétrica </h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/Sino.png">
@@ -81,7 +84,8 @@
 				<div class="col-md-6 col-lg-3">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
-                            <h4 class="heading-4">Controle de acesso</h4>
+                            <h4 class="heading-4">Controle de acesso
+							</br></h4>
                         </header>
                         <div class="headline-logo mg-left">
                             <img src="images/controledeacesso.png">
@@ -142,7 +146,7 @@
 </div>
 <!-- End Service Area -->
 
-<section class="help-area bg-color1">
+<!--<section class="help-area bg-color1">
     <div class="topics-wrapper section-spacing pt-0 bminus-30">
         <div class="container">
             <div class="section-title">
@@ -170,8 +174,8 @@
             </div>
         </div>
     </div>
-</section>
-<!-- Start Topics  Area -->
+</section>!-->
+<!-- Start Topics  Area!-->
 <section class="topics-area bg-color1">
     <div class="topics-wrapper section-spacing pt-0 bminus-30">
         <div class="container">
@@ -188,6 +192,7 @@
                             <li><a href="?p=ktec-begin">Estoque </a></li>
                             <li><a href="?p=ktec-begin">Financeiro</a></li>
                             <li><a href="?p=ktec-begin">Controle de vendas</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
@@ -197,9 +202,10 @@
                             <h4 class="heading-4">Ktec a Bordo</h4>
                         </header>
                         <ul class="topics-list list-inline">
-                            <li><a href="?p=ktec-abordo">Venda de passagem em guichê</a></li>
-                            <li><a href="?p=ktec-abordo">Venda de passagem abordo</a></li>
+                            <li><a href="?p=ktec-abordo">Venda de passagem <br> em guichê</a></li>
+                            <li><a href="?p=ktec-abordo">Venda de passagem <br> abordo</a></li>
                             <li><a href="?p=ktec-abordo">Emissão de relatórios</a></li>
+
                         </ul>
                     </article>
                 </div>
@@ -212,6 +218,7 @@
                             <li><a href="?p=ktec-siso">Emissão de asos</a></li>
                             <li><a href="?p=ktec-siso">Gestão de documentação</a></li>
                             <li><a href="?p=ktec-siso">Controle de EPI</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
@@ -224,6 +231,7 @@
                             <li><a href="?p=kbus">Guida de viagem</a></li>
                             <li><a href="?p=kbus">Controle de combustível</a></li>
                             <li><a href="?p=kbus">Controle de despesas</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
@@ -236,6 +244,7 @@
                             <li><a href="#">Empresas</a></li>
                             <li><a href="#">Estoque</a></li>
                             <li><a href="#">Pedidos</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
