@@ -41,10 +41,12 @@
                                     <li><a href="?p=infraestrutura-rede">Infraestrutura de Rede</a></li>
                                     <li><a href="?p=configuracao-servidor">Configuração de Servidores</a></li>
                                     <li><a href="?p=cftv">CFTV</a></li>
-									<li><a href="?p=automacao-residencial">Automação Residencial<a><li>
+									<li><a href="?p=automacao-residencial">Automação Residencial</a></li>
                                 </ul>
                             </li>
-                            <li><a  href="?p=contato">Contatos</a></li>
+
+
+                            <li><a	href="?p=contato">Contatos</a></li>
                             <!-- <li><a class="nav-search" data-toggle="modal" data-target="#modal"><img src="images/search-logo.png" alt="nav search" /></a></li> -->
                         </ul>
                     </nav>
