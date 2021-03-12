@@ -3,7 +3,7 @@
 ?>
 <!DOCTYPE HTML>
 <html lang="pt-Br">
-   
+
 <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -33,7 +33,7 @@
         </div>
         </div>
     </div>
-    <?php 
+    <?php
         error_reporting(0);
         ini_set('display_errors', 0);
         include_once 'includes/header.php';
@@ -48,42 +48,46 @@
                     break;
                 case 'ktec-begin':
                     include_once 'pages/ktec-begin.php';
-                    break;    
+                    break;
                 case 'ktec-abordo':
                     include_once 'pages/ktec-abordo.php';
-                    break;    
+                    break;
                 case 'ktec-siso':
                     include_once 'pages/ktec-siso.php';
-                    break;    
+                    break;
                 case 'kurbus':
                     include_once 'pages/kurbus.php';
-                    break;    
+                    break;
                 case 'entraga-rapida':
                     include_once 'pages/entraga-rapida.php';
-                    break;    
+                    break;
                 case 'suporte-ti':
                     include_once 'pages/suporte-ti.php';
-                    break;    
+                    break;
                 case 'infraestrutura-rede':
                     include_once 'pages/infraestrutura-rede.php';
-                    break;    
+                    break;
                 case 'configuracao-servidor':
                     include_once 'pages/configuracao-servidor.php';
-                    break;    
+                    break;
                 case 'cftv':
                     include_once 'pages/cftv.php';
-                    break;    
+                    break;
                 case 'contato':
                     include_once 'pages/contact.php';
-                    break;    
+                    break;
+				case 'automacao-residencial':
+                    include_once 'pages/automacao-residencial.php';
+                    break;
                 default:
                     include_once 'pages/home.php';
                     break;
+
             }
         }else{
             include_once 'pages/home.php';
         }
-        
+
         include_once 'includes/footer.php'
     ?>
 </body>

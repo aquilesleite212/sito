@@ -268,7 +268,7 @@
                         </header>
                         <ul class="topics-list list-inline">
                             <li><a href="#">Venda de Computadores</a></li>
-                            <li><a href="#">Venda de peças acessórios</a></li>
+                            <li><a href="#">Venda de peças e acessórios</a></li>
                             <li><a href="#">Manutenção de Computadores</a></li>
                         </ul>
                     </article>
@@ -282,6 +282,7 @@
                             <li><a href="#">Elaboração de projetos</a></li>
                             <li><a href="#">Instalação de rede</a></li>
                             <li><a href="#">Manutenção de rede</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
@@ -294,6 +295,7 @@
                             <li><a href="#">Manutenção de servidor</a></li>
                             <li><a href="#">Servidor Linux e Windows</a></li>
                             <li><a href="#">Peças e acessórios</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
@@ -306,6 +308,61 @@
                             <li><a href="#">Residencial e veícular</a></li>
                             <li><a href="#">Coleta automática de vídeos</a></li>
                             <li><a href="#">Manutenção e configuração</a></li>
+							<br></br>
+                        </ul>
+                    </article>
+                </div>
+				<div class="col-md-6 col-lg-4">
+                    <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
+                        <header class="topics-title">
+                            <h4 class="heading-4">Controle de Acesso</h4>
+                        </header>
+                        <ul class="topics-list list-inline">
+                            <li><a href="#">Residencial e Comercial</a></li>
+                            <li><a href="#">Venda de Equipamentos</a></li>
+                            <li><a href="#">Instalação e Manutenção</a></li>
+							<br>
+							</br>
+
+                        </ul>
+                    </article>
+                </div>
+				<div class="col-md-6 col-lg-4">
+                    <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
+                        <header class="topics-title">
+                            <h4 class="heading-4">Automação</h4>
+                        </header>
+                        <ul class="topics-list list-inline">
+                            <li><a href="#">Residencial</a></li>
+                            <li><a href="#">Venda de Equipamentos</a></li>
+                            <li><a href="#">Instalação e Manutenção</a></li>
+							<br></br>
+                        </ul>
+                    </article>
+                </div>
+				<div class="col-md-6 col-lg-4">
+                    <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
+                        <header class="topics-title">
+                            <h4 class="heading-4">Automação</h4>
+                        </header>
+                        <ul class="topics-list list-inline">
+                            <li><a href="#">Comercial</a></li>
+                            <li><a href="#">Venda de Equipamentos</a></li>
+                            <li><a href="#">Instalação e Manutenção</a></li>
+							<br></br>
+                        </ul>
+                    </article>
+                </div>
+				<div class="col-md-6 col-lg-4">
+                    <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
+                        <header class="topics-title">
+                            <h4 class="heading-4">Automação</h4>
+                        </header>
+                        <ul class="topics-list list-inline">
+                            <li><a href="#">Cancelas </a></li>
+                            <li><a href="#">Venda de Equipamentos</a></li>
+                            <li><a href="#">Instalação e Manutenção</a></li>
+							<br></br>
                         </ul>
                     </article>
                 </div>
