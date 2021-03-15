@@ -43,6 +43,7 @@
                                     <li><a href="?p=cftv">CFTV</a></li>
 									<li><a href="?p=automacao-residencial">Automação Residencial</a></li>
 									<li><a href="?p=automacao-de-cancelas">Automação de Cancelas</a></li>
+									<li><a href="?p=controle-de-acesso">Controle de Acesso</a></li>
                                 </ul>
                             </li>
 

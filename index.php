@@ -79,8 +79,14 @@
 				case 'automacao-residencial':
                     include_once 'pages/automacao-residencial.php';
                     break;
-				case 'automacao-residencial':
+				case 'automacao-de-cancelas':
 					include_once 'pages/automacao-de-cancelas.php';
+					break;
+				case 'automacao-comercial':
+					include_once 'pages/automacao-comercial.php';
+					break;
+				case 'controle-de-acesso':
+					include_once 'pages/controle-de-acesso';
 					break;
                 default:
                     include_once 'pages/home.php';
