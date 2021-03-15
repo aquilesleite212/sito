@@ -42,6 +42,7 @@
                                     <li><a href="?p=configuracao-servidor">Configuração de Servidores</a></li>
                                     <li><a href="?p=cftv">CFTV</a></li>
 									<li><a href="?p=automacao-residencial">Automação Residencial</a></li>
+									<li><a href="?p=automacao-de-cancelas">Automação de Cancelas</a></li>
                                 </ul>
                             </li>
 

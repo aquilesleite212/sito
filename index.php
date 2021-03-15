@@ -79,6 +79,9 @@
 				case 'automacao-residencial':
                     include_once 'pages/automacao-residencial.php';
                     break;
+				case 'automacao-residencial':
+					include_once 'pages/automacao-de-cancelas.php';
+					break;
                 default:
                     include_once 'pages/home.php';
                     break;
