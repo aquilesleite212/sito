@@ -4,6 +4,7 @@
         <div class="container slider-content-2">
             <div class="row">
                 <div class="col-md-6 col-lg-3">
+				<a href="?p=automacao-residencial">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Automação <br> Residencial</h4>
@@ -17,8 +18,10 @@
                             <li><a href="?p=ktec-begin">Controle de vendas</a></li>
                         </ul> -->
                     </article>
+				</a>
                 </div>
                 <div class="col-md-6 col-lg-3">
+				<a href="?p=configuracao-servidor">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Servidores em Nuvem<br>
@@ -28,8 +31,10 @@
                             <img src="images/server.png">
                         </div>
                     </article>
+					</a>
                 </div>
                 <div class="col-md-6 col-lg-3">
+				<a href="?p=infraestrutura-rede">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Infraestrutura e CFTV
@@ -39,8 +44,10 @@
                             <img src="images/cctv.png">
                         </div>
                     </article>
+				</a>
                 </div>
                 <div class="col-md-6 col-lg-3">
+				<a href="?p=suporte-ti">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Suporte em T.I
@@ -50,8 +57,10 @@
                             <img src="images/computer.png">
                         </div>
                     </article>
+					</a>
                 </div>
 				<div class="col-md-6 col-lg-3">
+				<a href="?p=automacao-comercial">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Automação <br> Comercial</h4>
@@ -60,8 +69,10 @@
                             <img src="images/automation.png">
                         </div>
                     </article>
+				</a>
                 </div>
 				<div class="col-md-6 col-lg-3">
+				<a href="?p=automacao-de-cancelas">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Automação de<br> Cancelas</h4>
@@ -70,8 +81,10 @@
                             <img src="images/Cancelas.png">
                         </div>
                     </article>
+				</a>
 				</div>
 				<div class="col-md-6 col-lg-3">
+				<a href="?p=instalacao-de-alarmes-e-cerca-eletrica">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Instalação de Alarmes <br> e Cercas Elétrica </h4>
@@ -80,8 +93,10 @@
                             <img src="images/Sino.png">
                         </div>
                     </article>
+				</a>
 				</div>
 				<div class="col-md-6 col-lg-3">
+				<a href="?p=controle-de-acesso">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Controle de acesso
@@ -91,6 +106,7 @@
                             <img src="images/controledeacesso.png">
                         </div>
                     </article>
+				</a>
 				</div>
             </div>
         </div>

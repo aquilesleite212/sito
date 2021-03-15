@@ -8,7 +8,7 @@
 
         <div class="page-title text-center white-text">
 
-            <h1 class="heading-1">Controle de Acesso</h1>
+            <h1 class="heading-1 wow fadeInUp" data-wow-durantio="1s">Controle de acesso</h1>
 
         </div>
 
@@ -30,47 +30,23 @@
 
             <div class="col-md-6 col-lg-4">
 
-                <article class="topics-service bg-color3">
+                <article class="topics-service bg-color3 wow fadeInUp" data-wow-durantio="3s">
 
-                <header class="topics-title">
+                    <header class="topics-title">
 
-                    <h4 class="heading-4">Instalação</h4>
+                        <h4 class="heading-4">Elaboração de projetos</h4>
 
-                </header>
+                    </header>
 
-                <ul class="topics-list list-inline">
+                    <ul class="topics-list list-inline">
 
-                    <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
 
-                    <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
 
-                    <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
 
-                </ul>
-
-                </article>
-
-            </div>
-
-            <div class="col-md-6 col-lg-4">
-
-                <article class="topics-service bg-color3">
-
-                <header class="topics-title">
-
-                    <h4 class="heading-4">Venda de Produtos</h4>
-
-                </header>
-
-                <ul class="topics-list list-inline">
-
-                    <li><a href="#"></a></li>
-
-                    <li><a href="#"></a></li>
-
-                    <li><a href="#"></a></li>
-
-                </ul>
+                    </ul>
 
                 </article>
 
@@ -78,23 +54,47 @@
 
             <div class="col-md-6 col-lg-4">
 
-                <article class="topics-service bg-color3">
+                <article class="topics-service bg-color3 wow fadeInUp" data-wow-durantio="3s">
 
-                <header class="topics-title">
+                    <header class="topics-title">
 
-                    <h4 class="heading-4">Manutenção e configuração</h4>
+                        <h4 class="heading-4">Intalação de rede</h4>
 
-                </header>
+                    </header>
 
-                <ul class="topics-list list-inline">
+                    <ul class="topics-list list-inline">
 
-                    <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
 
-                    <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
 
-                    <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
 
-                </ul>
+                    </ul>
+
+                </article>
+
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+
+                <article class="topics-service bg-color3 wow fadeInUp" data-wow-durantio="3s">
+
+                    <header class="topics-title">
+
+                        <h4 class="heading-4">Manutenção de rede</h4>
+
+                    </header>
+
+                    <ul class="topics-list list-inline">
+
+                        <li><a href="#"></a></li>
+
+                        <li><a href="#"></a></li>
+
+                        <li><a href="#"></a></li>
+
+                    </ul>
 
                 </article>
 

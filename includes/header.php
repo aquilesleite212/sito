@@ -24,6 +24,7 @@
                         <ul id="navigation-menu" class="slimmenu">
                             <li><a  href="?p=inicio">Início</a></li>
                             <li><a  href="?p=sobre">Sobre a Ktec</a></li>
+							<li><a  href="?p=programas">Suporte</a></li>
                             <li>
                                 <a href="#"> Produtos</a>
                                 <ul>
@@ -43,7 +44,9 @@
                                     <li><a href="?p=cftv">CFTV</a></li>
 									<li><a href="?p=automacao-residencial">Automação Residencial</a></li>
 									<li><a href="?p=automacao-de-cancelas">Automação de Cancelas</a></li>
+									<li><a href="?p=automacao-comercial">Automação Comercial</a></li>
 									<li><a href="?p=controle-de-acesso">Controle de Acesso</a></li>
+									<li><a href="?p=instalacao-de-alarme-e-cerca-eletrica">Instalação de Alarmes e Cercas elétricas</a></li>
                                 </ul>
                             </li>
 

@@ -83,11 +83,18 @@
 					include_once 'pages/automacao-de-cancelas.php';
 					break;
 				case 'automacao-comercial':
-					include_once 'pages/automacao-comercial.php';
-					break;
+						include_once 'pages/automacao-comercial.php';
+						break;
 				case 'controle-de-acesso':
-					include_once 'pages/controle-de-acesso';
-					break;
+						include_once 'pages/controle-de-acesso.php';
+						break;
+				case 'instalacao-de-alarme-e-cerca-eletrica':
+						include_once 'pages/instalacao-de-alarme-e-cerca-eletrica.php';
+						break;
+				case 'programas':
+				    	include_once 'pages/programas.php';
+						break;
+
                 default:
                     include_once 'pages/home.php';
                     break;
