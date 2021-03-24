@@ -84,7 +84,7 @@
 				</a>
 				</div>
 				<div class="col-md-6 col-lg-3">
-				<a href="?p=instalacao-de-alarmes-e-cerca-eletrica">
+				<a href="?p=instalacao-de-alarme-e-cerca-eletrica">
                     <article class="topics-service bg-color3 wow fadeInUp" data-wow-duration="3s">
                         <header class="topics-title">
                             <h4 class="heading-4">Instalação de Alarmes <br> e Cercas Elétrica </h4>
